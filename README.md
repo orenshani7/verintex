@@ -9,7 +9,7 @@ finally encoded in json and printed
 
 Python 3.6.7
 
-Using these packages 
+Using these packages:
 
 bs4 (BeautifulSoup HTML parser) - installed with "pip3 install bs4" 
 
