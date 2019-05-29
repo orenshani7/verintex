@@ -12,5 +12,7 @@ Python 3.6.7
 Using these packages 
 
 bs4 (BeautifulSoup HTML parser) - installed with "pip3 install bs4" 
+
 urllib (reading an http url ) - installed with "pip3 install urllib3"
+
 json (json handler ) - Came builtin with Python (I think)
